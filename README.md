@@ -18,7 +18,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ```
+## See the Website [here](https://grey-whitt.github.io/urban-octo-telegram-master/ "Horiseon Social Solution Services)
 
 ## Here is what the website looks like when loaded properly
 
-![Full site](https://github.com/Grey-Whitt/urban-octo-telegram-master/blob/master/Develop/assets/images/whole-site.jpg?v=4&s=200)
+![Full site](https://github.com/Grey-Whitt/urban-octo-telegram-master/blob/master/Develop/assets/images/whole-site.jpg)
