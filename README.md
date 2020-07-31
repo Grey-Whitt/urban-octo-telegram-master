@@ -21,4 +21,4 @@ THEN I find a concise, descriptive title
 
 ## Here is what the website looks like when loaded properly
 
-![Full site](https://github.com/Grey-Whitt/urban-octo-telegram-master/blob/master/Develop/assets/images/whole-site.jpg | width=50)
+![Full site](https://github.com/Grey-Whitt/urban-octo-telegram-master/blob/master/Develop/assets/images/whole-site.jpg?s=200)
