@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this activity was to fix and optimize code that to meet accessibility standards.
+The purpose of this activity was to fix and optimize the provided code to meet accessibility standards.
 This project is 100% HTML and CSS
 
 ```html
