@@ -2,7 +2,8 @@
 
 ## Description
 
-The purpose of this activity was to fix and optimize code that was given to me and meet the acceptance criteria.
+The purpose of this activity was to fix and optimize code that to meet accessibility standards.
+This project is 100% HTML and CSS
 
 ```html
 GIVEN a webpage meets accessibility standards
